@@ -1,37 +1,34 @@
 ## Welcome to the Open Privacy Inititative
 
-You can use the [editor on GitHub](https://github.com/c0repwn3r/openprivacyinitiative/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Open Privacy Initiative is an ongoing effort to protect the human right of privacy in the digital age. In recent times, companies have gone beyond their right to track, identify, and gather informaton on their users. This has gone to the point where just visiting a website can result in giving the owner of that website information about your entire life.
+**This needs to stop.**
+We aim to do two things:
+- protect people’s privacy online
+- keep the web open and accessible to everyone
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Big companies have gone too far in infringing on people's privacy and the people just go with it. Help us make the web a better place.
 
-### Markdown
+### The Story
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Open Privacy Inititative was created in late 2021 after it's founder requested their personal data from a company - and was surprised of what it contained.
 
-```markdown
-Syntax highlighted code block
+Not only did the report include expected information, like:
+- logs of service usage
+- IP address
+- email
 
-# Header 1
-## Header 2
-### Header 3
+It also contained personal information which was *never given to the company*, such as:
+- full name (never provided)
+- accurate address (never provided)
 
-- Bulleted
-- List
+Additionally, the founder noticed that the application was always using the microphone and was always listening.
 
-1. Numbered
-2. List
+After finding all of this out, they commited to starting a foundation to solve this issue. 
+Thus, the OPI was born.
+Together, we can protect the given rights of the people and make the web a better and more open place.
 
-**Bold** and _Italic_ and `Code` text
+### Pledge your support
 
-[Link](url) and ![Image](src)
-```
+1 person and 0 companies have pledged their support so far. Let's make this number higher!
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/c0repwn3r/openprivacyinitiative/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you would like to pledge your support to the OPI movement, please fill out [https://forms.gle/3tmVBQ5QmoohcFiJ9](this form.) No personal data is collected and this is completley optional!
