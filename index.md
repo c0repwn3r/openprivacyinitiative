@@ -31,4 +31,4 @@ Together, we can protect the given rights of the people and make the web a bette
 
 1 person and 0 companies have pledged their support so far. Let's make this number higher!
 
-If you would like to pledge your support to the OPI movement, please fill out [https://forms.gle/3tmVBQ5QmoohcFiJ9](this form.) No personal data is collected and this is completley optional!
+If you would like to pledge your support to the OPI movement, please fill out (https://forms.gle/3tmVBQ5QmoohcFiJ9)[this form.] No personal data is collected and this is completley optional!
