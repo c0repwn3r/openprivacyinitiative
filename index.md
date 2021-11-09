@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Open Privacy Inititative
 
 You can use the [editor on GitHub](https://github.com/c0repwn3r/openprivacyinitiative/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
